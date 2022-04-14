@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: #fefefe;
+    font-family: 'Cardo', serif;
+}
+
+.logo{
+    width: 240px;
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: small;
+}
+
+.page-container{
+    padding: 64px;
+}
+
+.page-title{
+    font-size: medium;
+    font-weight: 400;
+}
+
+.footer{
+    background-color: #f3ebe6 ;
+    height: 300px;
+}
+
+.border{
+    border-style: solid ;
+}
+
+.footer-contacts{
+    display: inline-block;
+    width: 10%;
+    text-align: left;
+    padding: 20px;
+}
+
+.footer-contacts h3{
+    font-weight: 400;
+    font-size: small;
+}
+
+.footer-contacts p{
+    font-size: xx-small;
+    font-weight: 700;
+}
+
+.footer-nav{
+    display: inline-block;
+    width: 58%;
+}
+
+.footer-logo{
+    width: 150px;
+    margin-bottom: 50px;
+}
+.footer-nav-menu{
+    t
+}
+
+.footer-link{
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+    font-size: small;
+}
+
+.footer-copyright{
+    display: inline-block;
+    text-align: right;
+    width: 20%;
+    height: 100%;
+}
+
+.footer-copyright h3{
+    font-weight: 400;
+    font-size: medium;
+}
+
+.footer-copyright p{
+
+}
